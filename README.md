@@ -1,4 +1,4 @@
-Photoship file for the UC San Diego Data & GIS Lab sticker "dont_put_spaces_in_file_names". Also includes a high resolution PNG of the sticker if you wish to have your own printed. (Ours were printed as 2.5x3 from [Stickermule](https://www.stickermule.com/).)
+High resolution PNG of the UC San Diego Data & GIS Lab sticker "dont_put_spaces_in_file_names", if you wish to have your own printed. (Ours were printed as 2.5x3 from [Stickermule](https://www.stickermule.com/).)
 
 Sticker background is UC San Diego campus snippet of the [US Building Footprints dataset](https://github.com/Microsoft/USBuildingFootprints).
 
